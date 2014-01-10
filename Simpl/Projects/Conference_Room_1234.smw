@@ -4,7 +4,7 @@ Version=1
 [
 ObjTp=FSgntr
 Sgntr=SimplWindow
-RelVrs=4.02.18
+RelVrs=4.02.20
 IntStrVrs=2
 MinSMWVrs=3.00.00
 MinTIOVrs=206
@@ -1452,7 +1452,7 @@ RelStat=Release
 ]
 [
 ObjTp=Dv
-Nm=TSW-750
+Nm=UI #2
 H=703
 PrH=264
 DvC=3229
@@ -1462,6 +1462,7 @@ SmH=24
 RelStat=Release
 ProdLine=Smart Graphics
 DbH=3
+CsH=2
 EtH=2
 mC=1
 C1=704
@@ -1640,6 +1641,11 @@ Mdl=TSW-750
 ObjTp=Cs
 H=1
 DvH=700
+]
+[
+ObjTp=Cs
+H=2
+DvH=703
 ]
 [
 ObjTp=FP
@@ -2051,7 +2057,7 @@ CF=2
 n1I=32
 n2I=32
 n1O=32
-Cmn1=TSW-750
+Cmn1=UI #2
 mC=1
 C1=25
 mI=96

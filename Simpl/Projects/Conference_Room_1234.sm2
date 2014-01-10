@@ -35,7 +35,7 @@ FltTmp=1
 FpCS=0
 EnType=0
 ZeroOnIoOk=0
-PIT=
+PIT=Main
 ]
 [
 ObjTp=Dv
