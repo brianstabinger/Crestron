@@ -4,7 +4,7 @@ Version=1
 [
 ObjTp=FSgntr
 Sgntr=SimplWindow
-RelVrs=4.02.20
+RelVrs=4.02.18
 IntStrVrs=2
 MinSMWVrs=3.00.00
 MinTIOVrs=206
@@ -35,7 +35,7 @@ FltTmp=1
 FpCS=0
 EnType=0
 ZeroOnIoOk=0
-PIT=
+PIT=Main
 ]
 [
 ObjTp=Dv
@@ -1411,7 +1411,7 @@ Ad=13
 ]
 [
 ObjTp=Dv
-Nm=TSW-750
+Nm=UI 1
 H=700
 PrH=263
 DvC=3229
@@ -1421,6 +1421,7 @@ SmH=22
 RelStat=Release
 ProdLine=Smart Graphics
 DbH=2
+CsH=1
 EtH=1
 mC=1
 C1=701
@@ -1634,6 +1635,11 @@ DvH=709
 Whc=3
 Mnf=Crestron
 Mdl=TSW-750
+]
+[
+ObjTp=Cs
+H=1
+DvH=700
 ]
 [
 ObjTp=FP
@@ -2008,7 +2014,7 @@ CF=2
 n1I=32
 n2I=32
 n1O=32
-Cmn1=TSW-750
+Cmn1=UI 1
 mC=1
 C1=23
 mI=96
